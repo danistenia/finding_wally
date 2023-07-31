@@ -16,3 +16,4 @@ Yo lo estoy pensando de la siguiente forma:
 
 Ver ejemplo:
 
+![alt text](https://github.com/danistenia/finding_wally/blob/master/repo_images/img_6.jpg?raw=true)
