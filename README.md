@@ -22,11 +22,7 @@ Yo lo estoy pensando de la siguiente forma:
 
 4. Luego de esto sería bueno realizar un raking de "candidatos a Wally". He realizado esta tarea para mostrar candidado y queda un poco "fea" cuando se encuentra al indicado apuntando solamente a la cara, así que sería interesante crear una especie de rectángulo alrededor de los candidatos para que sea vea mejor. Estoy pensando en algo como esto:
 
-
-
-
-
-
+![alt text](https://github.com/danistenia/finding_wally/blob/master/repo_images/wally_square.jpgraw=true)
 
 ## Resources de imágenes de Wally
 
